@@ -1,0 +1,21 @@
+Name of Quantlet: 'Quantlet-1'
+
+Published in: 'Example Quantlet'
+
+Description: 'This is the example quantlet. You see here the coding file named the same way as the "Name of Quantlet" field in this document, 
+              but with the .py extension (could be also .ipynb or .r etc.). This metainfo.txt file is needed to create the README automatically and index through the quantlet.com website. 
+              So your project is searchable there. All the images in the same folder as the metainfo.txt will be attached to the README file automatically (it does not matter how you call it).'
+
+Keywords: 
+  - Quantlet
+  - Metainfo.txt
+  - reproducibility
+  - research
+  - transparency
+
+Author: 'Elizaveta Zinovyeva'
+
+See also: 'Styleguide repo: https://github.com/QuantLet/Styleguide-and-FAQ'
+
+Submitted:  'Elizaveta Zinovyeva 09. Jul 2021, Elizaveta Zinovyeva'
+
